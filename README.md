@@ -1,5 +1,5 @@
 # astrojectory
-<img src="https://gitlab.com/ece143_grp6/astrojectory/-/blob/main/gifs/nonhazardous_astro.gif" width="400" height="400" /> 
+<img src="https://github.com/kmalodhakar/astrojectory/blob/master/gifs/hazardous_astro.gif" width="400" height="400" /> 
 
 
 ## Modules Used for This Project
