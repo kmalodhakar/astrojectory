@@ -33,7 +33,7 @@ class asteroid:
         Solve the kepler equation to find position
         """
         coords_list =[]
-        for d in given_dates:
+        for d in self._given_dates:
             interval = compute_interval(self._close_date,d)
             e_anomaly = self.newton_method(interval)
             # print(interval)
