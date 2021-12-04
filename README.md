@@ -64,6 +64,11 @@ For regression, run the following command:
 python3 regression.py 
 ```
 
+For trajectory, run the following notebook:
+```
+Trajectory Visualization.ipynb
+```
+
 ## License
 
 MIT License - see the LICENSE file for further information.
